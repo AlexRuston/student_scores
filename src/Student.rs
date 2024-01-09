@@ -1,5 +1,5 @@
 // add 'mod average' to main.rs to use median
-use average::median;
+use crate::average::median;
 use std::fmt;
 
 #[derive(Debug)]
